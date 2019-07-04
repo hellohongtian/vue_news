@@ -23,3 +23,8 @@ npm run build
 # build for production and view the bundle analyzer report
 npm run build --report
 ```
+
+#### 截图
+![列表页](https://github.com/hellohongtian/vue_news/static/club1.png)
+![详情页](https://github.com/hellohongtian/vue_news/static/club2.png)
+![编辑页](https://github.com/hellohongtian/vue_news/static/club3.png)
