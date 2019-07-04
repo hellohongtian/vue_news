@@ -25,6 +25,9 @@ npm run build --report
 ```
 
 #### 截图
-![列表页](https://github.com/hellohongtian/vue_news/static/club1.png)
-![详情页](https://github.com/hellohongtian/vue_news/static/club2.png)
-![编辑页](https://github.com/hellohongtian/vue_news/static/club3.png)
+首页
+<img src="https://github.com/hellohongtian/vue_news/blob/master/static/club1.png" width='300' alt='首页'>
+详情页
+<img src="https://github.com/hellohongtian/vue_news/blob/master/static/club2.png" width='300' alt='详情页'>
+编辑
+<img src="https://github.com/hellohongtian/vue_news/blob/master/static/club3.png" width='300' alt='编辑'>
