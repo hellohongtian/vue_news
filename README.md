@@ -2,7 +2,13 @@
 
 > A Vue.js + Element-ui + Firebase project
 
-## Build Setup
+
+## 获取数据库地址
+
+> 需要注册firebase(https://firebase.google.com/),获取数据库地址后填入/src/main.js 里的axios.defaults.baseURL即可
+
+
+### Build Setup
 
 ``` bash
 # install dependencies
